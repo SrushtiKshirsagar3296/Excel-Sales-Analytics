@@ -6,7 +6,7 @@
 
     **1.** Create a _[customer performance report](https://github.com/SrushtiKshirsagar3296/Excel-Sales-Analytics/blob/main/Atliq_hardwares_Customer_net_sales_performance.pdf)_ 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/SrushtiKshirsagar3296/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Final%20Report.pdf)
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
